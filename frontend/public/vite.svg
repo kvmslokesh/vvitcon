@@ -1,0 +1,20 @@
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the gradient for a stylish fill -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:peachpuff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:orangered;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Create the text with gradient fill and a slightly darker hover effect -->
+  <text x="10" y="40" font-family="Arial, sans-serif" font-size="40" fill="url(#gradient1)">
+    VVITConnect
+  </text>
+  
+  <style>
+    text:hover {
+      fill: darkorange;
+    }
+  </style>
+</svg>
