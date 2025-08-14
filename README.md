@@ -60,3 +60,8 @@ The platform is designed to allow VVIT alumni to register, share updates, intera
 This version of VVITConnect is an early implementation developed as part of an academic journey. It’s functional but still under development, and there are plans to improve UI/UX, scalability, and real-time features in future iterations.
 
 ---
+
+## 🔗 Live Demo
+
+You can check out the live version of the project here:  
+👉 [VVITConnect Live](https://vvitcon.onrender.com)
